@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi people! 👋
 
+I'm an Information Engineering undergraduate student at UFABC (Federal University of ABC) and Computer Technician graduated at FIAP (Faculdade de Informática e Administração Paulista). Worked with digital marketing, more specifically direct marketing using Oracle technologies (e.g. Oracle Responsys). Interested in learning and working with technologies related to A.I., machine learning, electronics, data science and mobile development.
 <!--
 **mcs010/mcs010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
