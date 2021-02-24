@@ -18,6 +18,7 @@ Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A.
 ## Hi Folks 👋
 I'm games enthusiast, book lover, sports fan and I have great interest in robotics, programming and A.I.
 Currently looking to learn about technologies related to machine learning, A.I., data science and electroncis
+
  :rocket:  &nbsp; Always learning :muscle:
  <br/> :blush: &nbsp; Can give a little help with HTML and CSS
  <br/> :book: &nbsp; Looking to learn: Python, React Native, Java and C
