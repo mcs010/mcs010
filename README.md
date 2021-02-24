@@ -1,8 +1,36 @@
-### Hi people! 👋
 
-I'm an Information Engineering undergraduate student at UFABC (Federal University of ABC) and Computer Technician graduated at FIAP (Faculdade de Informática e Administração Paulista). Worked with digital marketing, more specifically direct marketing using Oracle technologies (e.g. Oracle Responsys). Interested in learning and working with technologies related to A.I., machine learning, electronics, data science and mobile development.
+<img width="50" src="https://cdn4.iconfinder.com/data/icons/whsr-january-flaticon-set/512/rocket.png">
+
+# Matheus Cardoso da Silva
+
+## Olá pessoal 👋
+Sou apaixonado por games, livros, esportes e tenho grande interesse em robótica, programação e I.A
+Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A., ciência de dados e eletrônica
+
+ :rocket:  &nbsp; Sempre aprendendo :muscle:
+ <br/> :blush: &nbsp; Posso dar uma ajudinha em HTML e CSS
+ <br/> :book: &nbsp; Procurando aprender: Python, React Native, Java e C
+ <br/> 💬  &nbsp; Sobre mim: Curto games, tecnologias, livros, séries e filmes, e esportes
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MatheusCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardosodasilva)](https://www.linkedin.com/in/matheuscardosodasilva) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-Matheus-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:math.cds10@gmail.com)](mailto:math.cds10@gmail.com)
+
+## Hi Folks 👋
+I'm games enthusiast, book lover, sports fan and I have great interest in robotics, programming and A.I.
+Currently looking to learn about technologies related to machine learning, A.I., data science and electroncis
+ :rocket:  &nbsp; Always learning :muscle:
+ <br/> :blush: &nbsp; Can give a little help with HTML and CSS
+ <br/> :book: &nbsp; Looking to learn: Python, React Native, Java and C
+ <br/> 💬  &nbsp; About me: I like games, technologies, books, series and movies, and sports
+ <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardosodasilva)](https://www.linkedin.com/in/matheuscardosodasilva) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-Matheus-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:math.cds10@gmail.com)](mailto:math.cds10@gmail.com)
+
+
 <!--
 **mcs010/mcs010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
