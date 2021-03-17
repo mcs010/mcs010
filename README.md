@@ -10,7 +10,7 @@ Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A.
  :rocket:  &nbsp; Sempre aprendendo :muscle:
  <br/> :blush: &nbsp; Posso dar uma ajudinha em HTML e CSS
  <br/> :book: &nbsp; Procurando aprender: Python, React Native, Java e C
- <br/> 💬  &nbsp; Sobre mim: Curto games, tecnologias, livros, séries e filmes, e esportes
+ <br/> 💬  &nbsp; Sobre mim: Curto games, tecnologias, livros, séries,filmes, animes e esportes
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MatheusCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardosodasilva)](https://www.linkedin.com/in/matheuscardosodasilva) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-Matheus-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:math.cds10@gmail.com)](mailto:math.cds10@gmail.com)
@@ -22,7 +22,7 @@ Currently looking to learn about technologies related to machine learning, A.I.,
  :rocket:  &nbsp; Always learning :muscle:
  <br/> :blush: &nbsp; Can give a little help with HTML and CSS
  <br/> :book: &nbsp; Looking to learn: Python, React Native, Java and C
- <br/> 💬  &nbsp; About me: I like games, technologies, books, series and movies, and sports
+ <br/> 💬  &nbsp; About me: I like games, technologies, books, series, movies, animes and sports
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardosodasilva)](https://www.linkedin.com/in/matheuscardosodasilva) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-Matheus-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:math.cds10@gmail.com)](mailto:math.cds10@gmail.com)
