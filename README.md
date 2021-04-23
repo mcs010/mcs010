@@ -10,7 +10,7 @@ Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A.
  :rocket:  &nbsp; Sempre aprendendo :muscle:
  <br/> :blush: &nbsp; Posso dar uma ajudinha em HTML e CSS
  <br/> :book: &nbsp; Procurando aprender: Python, React Native, Java e C
- <br/> 💬  &nbsp; Sobre mim: Curto games, tecnologias, livros, séries,filmes, animes e esportes
+ <br/> 💬  &nbsp; Sobre mim: Curto games, tecnologias, livros, séries, filmes, animes e esportes
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MatheusCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardosodasilva)](https://www.linkedin.com/in/matheuscardosodasilva) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-Matheus-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:math.cds10@gmail.com)](mailto:math.cds10@gmail.com)
