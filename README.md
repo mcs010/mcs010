@@ -8,8 +8,8 @@ Sou apaixonado por games, livros, esportes e tenho grande interesse em robótica
 Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A., desenvolvimento mobile, ciência de dados e eletrônica
 
  :rocket:  &nbsp; Sempre aprendendo :muscle:
- <br/> :blush: &nbsp; Posso dar uma ajudinha em HTML e CSS
- <br/> :book: &nbsp; Procurando aprender: Python, React Native, Java e C
+ <br/> :blush: &nbsp; Posso dar uma ajudinha em HTML, CSS, Javascript e React Native
+ <br/> :book: &nbsp; Procurando aprender: Python, React Native, Javascript e Nodejs
  <br/> 💬  &nbsp; Sobre mim: Curto games, tecnologias, livros, séries, filmes, animes e esportes
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MatheusCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardosodasilva)](https://www.linkedin.com/in/matheuscardosodasilva) 
 | 
@@ -20,8 +20,8 @@ I'm games enthusiast, book lover, sports fan and I have great interest in roboti
 Currently looking to learn about technologies related to machine learning, A.I., mobile development, data science and electroncis
 
  :rocket:  &nbsp; Always learning :muscle:
- <br/> :blush: &nbsp; Can give a little help with HTML and CSS
- <br/> :book: &nbsp; Looking to learn: Python, React Native, Java and C
+ <br/> :blush: &nbsp; Can give a little help with HTML, CSS, Javascript and React Native
+ <br/> :book: &nbsp; Looking to learn: Python, React Native, Javascript and Nodejs
  <br/> 💬  &nbsp; About me: I like games, technologies, books, series, movies, animes and sports
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardosodasilva)](https://www.linkedin.com/in/matheuscardosodasilva) 
 | 
