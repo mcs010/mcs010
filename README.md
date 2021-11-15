@@ -7,7 +7,7 @@
 Sou apaixonado por games, livros, esportes e tenho grande interesse em robótica, programação e I.A. Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A., ciência de dados e desenvolvimento mobile
 
  :rocket:  &nbsp; Sempre aprendendo :muscle:
- <br/> :blush: &nbsp; Posso dar uma ajudinha em HTML, CSS, Javascript e React Native
+ <br/> :blush: &nbsp; Posso dar uma ajudinha em Python HTML, CSS, Javascript e React Native
  <br/> :book: &nbsp; Procurando aprender: Python, React Native, Javascript e Nodejs
  <br/> 💬  &nbsp; Sobre mim: Curto games, tecnologias, livros, séries, filmes, animes e esportes
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MatheusCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardosodasilva)](https://www.linkedin.com/in/matheuscardosodasilva) 
