@@ -19,7 +19,7 @@ I'm games enthusiast, book lover, sports fan and I have great interest in roboti
 Currently looking to learn about technologies related to machine learning, A.I., data science and mobile development
 
  :rocket:  &nbsp; Always learning :muscle:
- <br/> :blush: &nbsp; Can give a little help with HTML, CSS, Javascript and React Native
+ <br/> :blush: &nbsp; Can give a little help with Python, HTML, CSS, Javascript and React Native
  <br/> :book: &nbsp; Looking to learn: Python, React Native, Javascript and Nodejs
  <br/> 💬  &nbsp; About me: I like games, technologies, books, series, movies, animes and sports
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscardosodasilva)](https://www.linkedin.com/in/matheuscardosodasilva) 
