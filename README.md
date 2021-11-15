@@ -4,8 +4,7 @@
 # Matheus Cardoso da Silva
 
 ## Olá pessoal 👋
-Sou apaixonado por games, livros, esportes e tenho grande interesse em robótica, programação e I.A
-Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A., ciência de dados e desenvolvimento mobile
+Sou apaixonado por games, livros, esportes e tenho grande interesse em robótica, programação e I.A. Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A., ciência de dados e desenvolvimento mobile
 
  :rocket:  &nbsp; Sempre aprendendo :muscle:
  <br/> :blush: &nbsp; Posso dar uma ajudinha em HTML, CSS, Javascript e React Native
