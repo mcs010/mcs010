@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por games, livros, esportes e tenho grande interesse em robótica, programação e I.A
-Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A., desenvolvimento mobile, ciência de dados e eletrônica
+Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A., ciência de dados e desenvolvimento mobile
 
  :rocket:  &nbsp; Sempre aprendendo :muscle:
  <br/> :blush: &nbsp; Posso dar uma ajudinha em HTML, CSS, Javascript e React Native
@@ -17,7 +17,7 @@ Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A.
 
 ## Hi Folks 👋
 I'm games enthusiast, book lover, sports fan and I have great interest in robotics, programming and A.I.
-Currently looking to learn about technologies related to machine learning, A.I., mobile development, data science and electroncis
+Currently looking to learn about technologies related to machine learning, A.I., data science and mobile development
 
  :rocket:  &nbsp; Always learning :muscle:
  <br/> :blush: &nbsp; Can give a little help with HTML, CSS, Javascript and React Native
