@@ -3,6 +3,11 @@
 
 # Matheus Cardoso da Silva
 
+<div>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs010&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcs010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+</div>
+
 ## Olá pessoal 👋
 Sou apaixonado por games, livros, esportes e tenho grande interesse em robótica, programação e I.A. Atualmente procurando aprender tecnologias relacionadas a machine learning, I.A., ciência de dados e desenvolvimento mobile
 
